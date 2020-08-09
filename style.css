@@ -1,0 +1,27 @@
+fieldset {
+    border-radius: 2em;
+    margin-top: 50px;
+   text-align: justify;
+}
+
+button{
+    margin-top: 10px;
+    margin-left: 800px;
+    height: 30px;
+    width: 100px;
+
+}
+h1 {
+    text-align: center;
+}
+body{
+    background-image: url('bgimg.jpeg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    
+}
+h1{
+    font-size: 30px;
+    
+}
